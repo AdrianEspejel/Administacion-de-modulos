@@ -1,0 +1,51 @@
+body {
+  font-family : Courier New , monospace ;
+  font-weight : bold ;
+  text-align : center ;
+ background-color : #2ac0d4 ;
+ font-size : 20 pt ;
+}
+
+h1 {
+font-size : 24 pt ;
+}
+
+input {
+font-size : 14 pt ;
+}
+
+table , th , td {
+border : 1 px solid black ;
+}
+table {
+    font-size : 18 pt ;
+    }
+   
+    th {
+    height : 80 px ;
+    }
+   
+    td {
+    height : 60 px ;
+    }
+ 
+
+ h1 {
+ font-size : 24 pt ;
+ }
+ .myborder {
+ border : 3 px solid black ;
+ }
+  
+  
+  .module {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  
